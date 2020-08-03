@@ -1,0 +1,9 @@
+C:\ItauTest\Itau.Live.Test\Itau.Live.Test.Infrastructure\bin\Debug\netcoreapp3.1\Itau.Live.Test.Infrastructure.deps.json
+C:\ItauTest\Itau.Live.Test\Itau.Live.Test.Infrastructure\bin\Debug\netcoreapp3.1\Itau.Live.Test.Infrastructure.dll
+C:\ItauTest\Itau.Live.Test\Itau.Live.Test.Infrastructure\bin\Debug\netcoreapp3.1\Itau.Live.Test.Infrastructure.pdb
+C:\ItauTest\Itau.Live.Test\Itau.Live.Test.Infrastructure\obj\Debug\netcoreapp3.1\Itau.Live.Test.Infrastructure.csprojAssemblyReference.cache
+C:\ItauTest\Itau.Live.Test\Itau.Live.Test.Infrastructure\obj\Debug\netcoreapp3.1\Itau.Live.Test.Infrastructure.csproj.CoreCompileInputs.cache
+C:\ItauTest\Itau.Live.Test\Itau.Live.Test.Infrastructure\obj\Debug\netcoreapp3.1\Itau.Live.Test.Infrastructure.AssemblyInfoInputs.cache
+C:\ItauTest\Itau.Live.Test\Itau.Live.Test.Infrastructure\obj\Debug\netcoreapp3.1\Itau.Live.Test.Infrastructure.AssemblyInfo.cs
+C:\ItauTest\Itau.Live.Test\Itau.Live.Test.Infrastructure\obj\Debug\netcoreapp3.1\Itau.Live.Test.Infrastructure.dll
+C:\ItauTest\Itau.Live.Test\Itau.Live.Test.Infrastructure\obj\Debug\netcoreapp3.1\Itau.Live.Test.Infrastructure.pdb

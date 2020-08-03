@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+
+		<IsPackable>false</IsPackable>
+
+		<AssemblyName>Itau.Live.Test.Run</AssemblyName>
+
+		<RootNamespace>Itau.Live.Test.Run</RootNamespace>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="FluentAssertions" Version="5.10.3" />
+		<PackageReference Include="nunit" Version="3.12.0" />
+		<PackageReference Include="NUnit3TestAdapter" Version="3.15.1" />
+		<PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.4.0" />
+		<PackageReference Include="SpecFlow" Version="3.3.57" />
+		<PackageReference Include="SpecFlow.NUnit" Version="3.3.57" />
+		<PackageReference Include="SpecFlow.Tools.MsBuild.Generation" Version="3.3.57" />
+		<PackageReference Include="System.Collections.NonGeneric" Version="4.3.0" />
+		<PackageReference Include="System.Runtime" Version="4.3.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Itau.Live.Test.Infrastructure\Itau.Live.Test.Infrastructure.csproj" />
+	</ItemGroup>
+
+</Project>

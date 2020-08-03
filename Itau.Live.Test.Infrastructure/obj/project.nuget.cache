@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2jsUqhKf4NKQf/jUGr/XVlzs+daXUGmay4G24RyjJLExb/+3IqFezXB4BRTVref/4gkO6cYf3tLLhTNyef3kpQ==",
+  "success": true,
+  "projectFilePath": "C:\\ItauTest\\Itau.Live.Test\\Itau.Live.Test.Infrastructure\\Itau.Live.Test.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\babi_\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\babi_\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}
